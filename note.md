@@ -13,3 +13,7 @@
 $ git config --global user.name "John Doe"
 $ git config --global user.email johndoe@example.com
 
+## Git Graph
+1. 右鍵 create new branch
+2. 新分支點兩下 -> 確認左下顯現的分支名稱為目標分支
+3. 編輯檔案後，提交上去新分支
